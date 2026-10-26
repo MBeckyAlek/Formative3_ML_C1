@@ -1,7 +1,7 @@
 # Formative Assignment: Probability Distributions, Bayesian Probability and Gradient Descent
 
-**Group:** [Insert Group Number]  
-**Course:** Machine Learning  
+**Group:** 3  
+**Course:** Mathematics for Machine Learning  
 **Institution:** African Leadership University
 
 ## Project Overview
