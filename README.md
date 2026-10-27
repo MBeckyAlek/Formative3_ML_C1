@@ -4,6 +4,10 @@
 **Course:** Mathematics for Machine Learning  
 **Institution:** African Leadership University
 
+## Manual gradient descent scans
+
+[Manual Gradient Descent](https://drive.google.com/file/d/1xbHIv74N2A1mUhQRh4Rrj1F8fzEP6M5O/view?usp=sharing)
+
 ## Project Overview
 
 This project explores some of the mathematical ideas used in machine learning. It covers Gaussian distributions, the Expectation-Maximization algorithm, Bayesian probability, and gradient descent.
